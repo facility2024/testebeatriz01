@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "pt-br"
+title = "Beatriz 🖤 Latina Cutie"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  version = "1.0.0"
+  description = "Sou a Beatriz🌹, 25 anos, com um jeito travesso e sempre pronta para uma boa diversão."
